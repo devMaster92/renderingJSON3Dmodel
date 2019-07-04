@@ -20,4 +20,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+
+#removed idea files
 .idea/
