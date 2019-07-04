@@ -1,9 +1,4 @@
 
-![screen capture](http://labs.jasonsturges.com/three.js/threejs-react-example.png)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -27,4 +22,4 @@ Your app is ready to be deployed!
 
 ##### `yarn run deploy`
 
-Build and deploy to gh-pages.
+Build and deploy
